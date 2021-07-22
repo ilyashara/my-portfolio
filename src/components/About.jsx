@@ -15,7 +15,7 @@ export default function About() {
               but I design also websites.
             </h1>
             <p className="mb-8 leading-relaxed">
-              After the covid, I found myself unemployed so I decided to learn how to develop web sites/apps. I followed a 5 months long bootcamp and this is my portfolio.
+              After the covid, I found myself unemployed so I decided to learn how to develop websites/apps. I followed a 5 months long bootcamp and this is my portfolio.
             </p>
             <div className="flex justify-center mb-8">
               <a
