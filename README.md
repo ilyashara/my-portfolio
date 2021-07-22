@@ -1,4 +1,4 @@
-**A preview of the app is available just here ==>** https://pensive-hypatia-a5f45f.netlify.app/
+**A preview of my portfolio is available just here ==>** https://pensive-hypatia-a5f45f.netlify.app/
 
 # Getting Started with Create React App
 
