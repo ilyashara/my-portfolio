@@ -1,3 +1,5 @@
+**A preview of the app is available just here ==>** https://pensive-hypatia-a5f45f.netlify.app/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
