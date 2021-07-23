@@ -8,14 +8,14 @@ export default function Navbar() {
             <img className="inline h-8" src="./hara.png" alt="hara"/>
           </a>
           <div>
-          <a href="#projects" className="mr-5 hover:text-white">
-            Projects
-          </a>
           <a href="#formations" className="mr-5 hover:text-white">
             Studies
           </a>
           <a href="#skills" className="mr-5 hover:text-white">
             Skills
+          </a>
+          <a href="#projects" className="mr-5 hover:text-white">
+            Projects
           </a>
           </div>
           <div>
