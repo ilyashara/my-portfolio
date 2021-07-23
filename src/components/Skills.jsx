@@ -12,7 +12,7 @@ export default function Skills() {
            Skills &amp; Technologies
           </h1>
           <p className="text-base leading-relaxed xl:w-2/4 lg:w-3/4 mx-auto">
-            All of the skills below are crucial to have but I consider myself a good teammate, I can quickly adapt to any environement. I'm also a pretty curios guy which is a plus in this field!
+            All of the skills below are crucial to have but I consider myself a good teammate, I can quickly adapt to any environement. I'm also a pretty curious guy which is a plus in this field!
           </p>
         </div>
         <div className="flex flex-wrap lg:w-4/5 sm:mx-auto sm:mb-2 -mx-2">

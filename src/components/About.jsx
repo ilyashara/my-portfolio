@@ -12,7 +12,7 @@ export default function About() {
             <h1 className="title-font sm:text-4xl text-3xl mb-4 font-medium text-white">
               Hi, I'm Ilyas.
               <br className="hidden lg:inline-block" />I'm an aeronautical design engineer,
-              but I design also websites.
+              but I also design websites.
             </h1>
             <p className="mb-8 leading-relaxed">
               After the covid, I found myself unemployed so I decided to learn how to develop websites/apps. I followed a 5 months long bootcamp and this is my portfolio.
@@ -29,10 +29,19 @@ export default function About() {
               </a>
               <a
                 href="https://www.linkedin.com/in/ilyas-hara/"
-                className="inline-flex items-center">
+                className="inline-flex items-center mr-8">
                  <img
                     alt="linkedin"
                     src="./linkedin.png"
+                    className="w-8 flex-shrink-0 object-cover object-center"
+                  />
+              </a>
+              <a
+                href="https://github.com/ilyashara/"
+                className="inline-flex items-center">
+                 <img
+                    alt="github"
+                    src="./github.png"
                     className="w-8 flex-shrink-0 object-cover object-center"
                   />
               </a>

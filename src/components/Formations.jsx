@@ -12,7 +12,7 @@ export default function Formations() {
           Studies
         </h1>
         <p className="text-base leading-relaxed xl:w-2/4 lg:w-3/4 mx-auto">
-            I'm a proud "Wild" and have a master's degree in auronautical engineering from Université Paul Sabatier.
+            I'm a proud "Wilder" and have a master's degree in auronautical engineering from Université Paul Sabatier.
           </p>
           </div>
         <div className="flex flex-wrap m-4">
