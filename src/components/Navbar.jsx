@@ -20,7 +20,7 @@ export default function Navbar() {
           </div>
           <div>
             <a href="#contact" className="mr-5 hover:text-white">
-              Let's talk!
+              Let's talk !
             </a>
           </div>
         </nav>
