@@ -23,7 +23,7 @@ export const projects = [
   },
   {
     title: "PredictaLab",
-    subtitle: "Nex.Js and Styled Components",
+    subtitle: "Next and Styled Components",
     description:
     "This is our final client project. Our goal was to develop a site in which an admin can create, edit and delete articles. The user should have acces to the published articles. It's developed for Baptiste Robert (CEO of PredictaLab).",
     image: "./predicta.gif",
